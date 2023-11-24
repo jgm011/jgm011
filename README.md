@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Juan Graña and I'm a Javascript Developer, from Uruguay</p>
+<p align="left">My name is Juan Graña and I'm a Web Developer from Uruguay</p>
 
 ###
 
